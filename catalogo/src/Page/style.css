@@ -1,0 +1,66 @@
+.productSofa {
+
+    flex: 1;
+
+    margin-top: 180px;
+    margin-left: 220px; 
+
+
+}
+
+
+.product {
+    display: flex;
+}
+
+.info {
+    flex: 2;
+    margin-top: 250px;
+    color: #271A45
+}
+
+.codigo {
+    margin-bottom: 12px;
+    font-size:16px;
+    font-family: Lato;
+    font-weight: 300;
+    line-height: 100%;
+}
+
+.title {
+    margin-bottom: 12px;
+    font-size: 24px;
+}
+
+.price {
+    font-size:16px;
+    font-family: Lato;
+    line-height: 100%;
+}
+
+.buttonAdd button{
+    cursor: pointer;
+   width: 200px;
+   height: 40px;
+   border-radius: 40px;
+   border: 2px solid #271A45;
+   margin-top: 20px;
+   background-color: #D9CDF7;
+   color:#271A45
+}
+.buttonAdd button:hover{
+    background-color: #beb3d8;
+    border: 2px solid #33225c;
+
+}
+.vector{
+    margin-left: 350px;
+    cursor: pointer;
+ 
+}
+.sofaGif{
+   
+    width:449px;
+    height: 259px;
+}
+
